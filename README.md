@@ -10,3 +10,8 @@ Puntuación
 A lo largo de los años, el orden de puntuación para los pilotos y los constructores ha ido variando, pero siempre se ha premiado más a los primeros que a los últimos, excepto entre 1950 y 1959, que también puntuaba el piloto que registrase la vuelta rápida de la carrera.57​
 La puntuación actual en un Gran Premio se distribuye de la siguiente manera: el ganador de la prueba conseguirá 25 puntos; el segundo clasificado, 18; el tercero, 15; el cuarto, 12; el quinto, 10; el sexto, 8; el séptimo, 6; el octavo, 4; el noveno, 2; y el décimo, 1 punto. Durante décadas, la puntuación ha determinado el orden en la clasificación del campeonato del mundo de pilotos y de constructores, pues quien tuviera más puntos sería el campeón, y en caso de empate decidirían las mejores posiciones en carrera. En el caso de los constructores, la suma de los puntos de sus pilotos determina los puntos totales del equipo y la posición del mismo en el campeonato.
 
+Puntuación a lo largo de los años:
+
+
+
+
