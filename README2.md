@@ -35,5 +35,5 @@ Estos son los pilotos y constructores de esta temporada:
 
 
 
-<a href"https://es.wikipedia.org/wiki/F%C3%B3rmula_1">Wikipedia</a>
+
 
