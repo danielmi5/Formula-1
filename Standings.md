@@ -1,6 +1,6 @@
 Temporada 2024
 
-Formato.
+</b>Formato.<b/>
 
 El formato actual es:
 
