@@ -24,7 +24,8 @@ Estos son los pilotos y constructores de esta temporada:
 
 Son 24 Grandes Premios:
 
-![Calendario](https://github.com/user-attachments/assets/74b7b71c-5e47-4879-977e-62b18c438a9e)
+
+![Calendario](https://github.com/user-attachments/assets/2a9a5473-1606-4735-bba0-fd5f9e8af237)
 
 
 
