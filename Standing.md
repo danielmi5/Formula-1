@@ -16,8 +16,7 @@ Todos los equipos compiten con neumáticos suministrados por la empresa Pirelli.
 Estos son los pilotos y constructores de esta temporada:
 
 
-
-![17039552989460](https://github.com/user-attachments/assets/1d9cef26-ed3a-43e9-8659-bfd6645e7d36)
+![17039552989460](https://github.com/user-attachments/assets/109f1b20-d264-4829-8c90-7aefa5634482)
 
 
 
