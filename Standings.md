@@ -19,8 +19,10 @@ Estos son los pilotos y constructores de esta temporada:
 <b> <font size="2">Calendario de esta temporada </font></b>
 
 
+![Captura de pantalla 2024-09-26 174228](https://github.com/user-attachments/assets/6e9f49b0-d10a-4e53-88c6-4f93e12790a8)
 
 
 <b> <font size="2">Clasificación de esta temporada </font></b>
 
 
+![Clasificación](https://github.com/user-attachments/assets/209fc79b-180b-4bc3-9060-08b1270b7c15)
