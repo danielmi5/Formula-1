@@ -19,8 +19,23 @@ Estos son los pilotos y constructores de esta temporada:
 ![17039552989460](https://github.com/user-attachments/assets/109f1b20-d264-4829-8c90-7aefa5634482)
 
 
+### Calendario de esta temporada
 
 
+![Captura de pantalla 2024-09-26 174228](https://github.com/user-attachments/assets/24640588-4929-4315-bbab-a1595530fe69)
+
+
+
+### Clasificación de esta temporada
+
+
+
+
+![Clasificación](https://github.com/user-attachments/assets/53f8fd92-a1b7-4886-8984-5f6f40df255d)
+
+
+
+<a href"https://es.wikipedia.org/wiki/F%C3%B3rmula_1">Wikipedia</a>
 
 
 
