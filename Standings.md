@@ -16,23 +16,6 @@ Todos los equipos compiten con neumáticos suministrados por la empresa Pirelli.
 Estos son los pilotos y constructores de esta temporada:
 
 
-![17039552989460](https://github.com/user-attachments/assets/27d0a407-5d63-4760-b612-b25113a80fbe)
-
-
-
-### Calendario de esta temporada:
-
-Son 24 Grandes Premios:
-
-
-
-
-
-
-###  Clasificación de esta temporada:
-
-
-![Clasificación](https://github.com/user-attachments/assets/69911c43-d9ad-4b9e-9299-2d60910d43a3)
 
 
 Fuentes: <a href="https://es.wikipedia.org/wiki/F%C3%B3rmula_1">Wikipedia</a>
