@@ -12,6 +12,8 @@ La puntuación actual en un Gran Premio se distribuye de la siguiente manera: el
 
 Puntuación a lo largo de los años:
 
+<span>![</span><span>Tabla de puntuación por años</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/danielmi5/Formula-1/main/Captura de pantalla 2024-09-26 165139.png</span><span>)</span>
+
 
 
 
