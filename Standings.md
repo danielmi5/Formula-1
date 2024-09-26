@@ -1,6 +1,6 @@
-Temporada 2024
+<b> <font size="4">Temporada 2024</font></b>
 
-</b>Formato.<b/>
+<b> <font size="2">Formato.</font></b>
 
 El formato actual es:
 
@@ -16,12 +16,11 @@ Estos son los pilotos y constructores de esta temporada:
 
 
 
-Calendario de esta temporada
+<b> <font size="2">Calendario de esta temporada </font></b>
 
 
 
 
-Clasificación actual de esta temporada:
-
+<b> <font size="2">Clasificación de esta temporada </font></b>
 
 
