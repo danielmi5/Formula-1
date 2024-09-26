@@ -15,7 +15,8 @@ Los siguientes constructores y pilotos están actualmente bajo contrato para com
 Todos los equipos compiten con neumáticos suministrados por la empresa Pirelli.
 Estos son los pilotos y constructores de esta temporada:
 
-![17039552989460](https://github.com/user-attachments/assets/imagenes/927dae64-c263-4536-91ae-3fcb3c6f87e1)
+
+![17039552989460](https://github.com/user-attachments/assets/27d0a407-5d63-4760-b612-b25113a80fbe)
 
 
 
@@ -23,13 +24,15 @@ Estos son los pilotos y constructores de esta temporada:
 
 Son 24 Grandes Premios:
 
-![Captura de pantalla 2024-09-26 174228](https://github.com/user-attachments/assets/6e9f49b0-d10a-4e53-88c6-4f93e12790a8)
+![Calendario](https://github.com/user-attachments/assets/74b7b71c-5e47-4879-977e-62b18c438a9e)
+
 
 
 ###  Clasificación de esta temporada:
 
 
-![Clasificación](https://github.com/user-attachments/assets/209fc79b-180b-4bc3-9060-08b1270b7c15)
+![Clasificación](https://github.com/user-attachments/assets/69911c43-d9ad-4b9e-9299-2d60910d43a3)
+
 
 
 
