@@ -15,7 +15,7 @@ Los siguientes constructores y pilotos están actualmente bajo contrato para com
 Todos los equipos compiten con neumáticos suministrados por la empresa Pirelli.
 Estos son los pilotos y constructores de esta temporada:
 
-![17039552989460](https://github.com/user-attachments/assets/927dae64-c263-4536-91ae-3fcb3c6f87e1)
+![17039552989460](https://github.com/user-attachments/assets/imagenes/927dae64-c263-4536-91ae-3fcb3c6f87e1)
 
 
 
