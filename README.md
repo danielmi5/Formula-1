@@ -11,16 +11,14 @@ A lo largo de los años, el orden de puntuación para los pilotos y los construc
 La puntuación actual en un Gran Premio se distribuye de la siguiente manera: el ganador de la prueba conseguirá 25 puntos; el segundo clasificado, 18; el tercero, 15; el cuarto, 12; el quinto, 10; el sexto, 8; el séptimo, 6; el octavo, 4; el noveno, 2; y el décimo, 1 punto. Durante décadas, la puntuación ha determinado el orden en la clasificación del campeonato del mundo de pilotos y de constructores, pues quien tuviera más puntos sería el campeón, y en caso de empate decidirían las mejores posiciones en carrera. En el caso de los constructores, la suma de los puntos de sus pilotos determina los puntos totales del equipo y la posición del mismo en el campeonato.
 Puntuación a lo largo de los años:
 
-
-![Captura de pantalla 2024-09-26 165139](https://github.com/user-attachments/assets/7806013f-7140-4b0f-a831-88b06dc0802a)
+![Captura de pantalla 2024-09-26 165139](https://github.com/user-attachments/assets/5fd5d31a-69c1-4fb6-8e74-36d71ac789e4)
 
 
 
 ## Sistemas de seguridad
 Las banderas en la Fórmula 1, y por extensión en el automovilismo, son imprescindibles pues es la manera en que los comisarios de pista se comunican con los pilotos. Es como saberse las señales de tráfico: los conductores deben de conocer y respetar las distintas banderas. Las dimensiones mínimas son 60 cm × 80 cm, excepto la roja y la de cuadros que tienen que ser cómo mínimo de 80 × 100 cm.
 
-
-![02_1258](https://github.com/user-attachments/assets/30f9e61e-4511-40a4-bc7c-380d49159408)
+![02_1258](https://github.com/user-attachments/assets/eddfa174-ccd2-498b-b77e-9d62b205f5eb)
 
 
 ## Penalizaciones en carrera y clasificación
