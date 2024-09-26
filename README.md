@@ -12,13 +12,15 @@ La puntuación actual en un Gran Premio se distribuye de la siguiente manera: el
 Puntuación a lo largo de los años:
 
 
-![Captura de pantalla 2024-09-26 165139](https://github.com/user-attachments/assets/f7d0d28f-61b3-414c-bbec-c095490fa09d)
+![Captura de pantalla 2024-09-26 165139](https://github.com/user-attachments/assets/7806013f-7140-4b0f-a831-88b06dc0802a)
+
 
 
 ## Sistemas de seguridad
 Las banderas en la Fórmula 1, y por extensión en el automovilismo, son imprescindibles pues es la manera en que los comisarios de pista se comunican con los pilotos. Es como saberse las señales de tráfico: los conductores deben de conocer y respetar las distintas banderas. Las dimensiones mínimas son 60 cm × 80 cm, excepto la roja y la de cuadros que tienen que ser cómo mínimo de 80 × 100 cm.
 
-![02_1258](https://github.com/user-attachments/assets/e1f12249-c60f-4b1b-bdf6-b09569c0778c)
+
+![02_1258](https://github.com/user-attachments/assets/30f9e61e-4511-40a4-bc7c-380d49159408)
 
 
 ## Penalizaciones en carrera y clasificación
