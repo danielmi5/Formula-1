@@ -35,13 +35,6 @@ Los comisarios de pista son quienes penalizan a los competidores. Las penalizaci
 -Bandera negra: se expulsa al piloto. Es la penalización más severa, pues imposibilita que el corredor pueda puntuar en el Gran Premio. Generalmente se usa en casos de falta reincidente, si se ha provocado una situación de extrema peligrosidad o si el auto presenta irregularidades en sus piezas tras una revisión técnica.
 En los casos drive-through y stop-and-go, el piloto deberá realizar la entrada en boxes antes de las tres primeras vueltas tras la señalización del castigo; de lo contrario podría recibir la exclusión de carrera (bandera negra). Cuando se aplica una de estas dos penalizaciones faltando cinco vueltas o menos para el final, se convertirán en 20 segundos en su última vuelta en caso de drive-through y 25 o 30 segundos en caso de stop-and-go.
 
-Formato.
-
-El formato actual es:
-
--Viernes: Se realizan dos sesiones libres de 60 minutos.
--Sabado: Una sesión de libres y una clasificación (para la parrilla de la carrera), ambas de 60 minutos.
--Carrera: La duración de la carrera es el numero de vueltas en un circuito para girar durante aproximadamente 305 Km.
 
 
 
