@@ -45,7 +45,7 @@ Los comisarios de pista son quienes penalizan a los competidores. Las penalizaci
 En los casos drive-through y stop-and-go, el piloto deberá realizar la entrada en boxes antes de las tres primeras vueltas tras la señalización del castigo; de lo contrario podría recibir la exclusión de carrera (bandera negra). Cuando se aplica una de estas dos penalizaciones faltando cinco vueltas o menos para el final, se convertirán en 20 segundos en su última vuelta en caso de drive-through y 25 o 30 segundos en caso de stop-and-go.
 
 
-<a href="index.html">Ir a la segunda sección</a>
+<a href="Standings.md">Ir a la segunda sección</a>
 
 
 
