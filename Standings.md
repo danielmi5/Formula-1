@@ -25,7 +25,7 @@ Estos son los pilotos y constructores de esta temporada:
 Son 24 Grandes Premios:
 
 
-![Calendario](https://github.com/user-attachments/assets/2a9a5473-1606-4735-bba0-fd5f9e8af237)
+
 
 
 
@@ -35,7 +35,7 @@ Son 24 Grandes Premios:
 ![Clasificación](https://github.com/user-attachments/assets/69911c43-d9ad-4b9e-9299-2d60910d43a3)
 
 
-
+Fuentes: <a href="https://es.wikipedia.org/wiki/F%C3%B3rmula_1">Wikipedia</a>
 
 
 
